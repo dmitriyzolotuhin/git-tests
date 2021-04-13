@@ -18,8 +18,11 @@ body {
 #frame > h3 {
     margin: 0;
 }
+#frame > label {
+    margin: 10px 0 0;
+}
 #frame > #btn {
-    margin: 10px 0;
+    margin: 10px 0 0;
     background-color: antiquewhite;
     outline: none;
     border-radius: 4px;
