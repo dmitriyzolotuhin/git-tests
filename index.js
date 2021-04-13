@@ -1,5 +1,5 @@
 const resultElem = document.querySelector('#result');
-const buttonElem = document.querySelector('#btn');
+const buttonElem = document.querySelector('#generate_button');
 
 const generateRandomNumber = () => Math.round(1000 * Math.random());
 

@@ -18,7 +18,7 @@ body {
 #frame > h3 {
     margin: 0;
 }
-#frame > #btn {
+#frame > #generate_button {
     margin: 10px 0;
     background-color: antiquewhite;
     outline: none;
@@ -27,6 +27,6 @@ body {
     height: 30px;
     font-weight: bold;
 }
-#frame > #btn:active {
+#frame > #generate_button:active {
     background-color: blanchedalmond;
 }
